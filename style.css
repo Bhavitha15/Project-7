@@ -1,0 +1,11 @@
+body{
+    background:url(https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/4/3/e/43e82e997dcceb21ba83bb693929fc9f664531cd.gif);
+}
+.container{
+    background-color: greenyellow;
+    height:370px;
+    width:350px;
+    margin: auto;
+    border:10px solid black;
+    margin-top: 10%;
+}
